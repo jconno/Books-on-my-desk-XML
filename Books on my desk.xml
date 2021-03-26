@@ -1,0 +1,26 @@
+<books>
+    <book>
+        <id>1</id>
+        <title>Become What You Are</title>
+		<author>Alan Watts</author>
+        <publisher>Shambhala Publications</publisher>
+		<year>2003</year>
+		<pages>132</pages>
+    </book>
+    <book>
+		<id>2</id>
+        <title>The Way of Zen </title>
+		<author>Alan Watts</author>
+        <publisher>Random House</publisher>
+		<year>1999</year>
+		<pages>236</pages>
+    </book>
+    <book>
+        <id>3</id>
+        <title>Become What You Are</title>
+		<author>Alan Watts</author>
+        <publisher>Shambhala Publications</publisher>
+		<year>2003</year>
+		<pages>132</pages>
+    </book>
+</books>
